@@ -8,16 +8,16 @@ import java.util.ArrayList;
 	    {
 	      ArrayList<String> car = new ArrayList<>();
 	      
-	      car.add("Шистірка");
-	      car.add("Запорожець");
-	      car.add("Москвич");
-	      car.add("Трабант");
-	      car.add("Вісімка");
-	      car.add("Девятка");
-	      car.add("Шістка");
-	      car.add("Лада");
-	      car.add("Камаз");
-	      car.add("Краз");
+	      car.add("Dzhiguli");
+	      car.add("Kamaz");
+	      car.add("Zaporozhets");
+	      car.add("Lada");
+	      car.add("Kraz");
+	      car.add("Bambula");
+	      car.add("Sraka");
+	      car.add("Brevno");
+	      car.add("Zaraza");
+	      car.add("Volga");
 	      
 	      System.out.println(car.size());
 	      
